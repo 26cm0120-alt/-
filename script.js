@@ -37,8 +37,7 @@ const members = [
     { name: "うに", image: "images/uni.webp", roles: ["深夜帯メンション可⭕", "原神民","マイクラ民","第5人格民", "スタレ民","プロセカ民","ゼンゼロ民","鳴潮民","お絵描き民", "Skyの民","スプラ民","学マス民","ヘブバン民","ゴッフィ民", "NTEの民","ペルソナ民","朝活の民☀️","夜活の民🌙"], comment: "" },
     { name: "みかんせいみかん", image: "images/mikan.PNG", roles: ["マイクラ民", "プロセカ民", "シャドバ民","TRPG民","遊戯王民"], comment: "" },
     { name: "らり", image: "images/rari.webp", roles: ["第5人格民", "エンドフィールド民", "Skyの民","あんスタ民"], comment: "" },
-    { name: "さとつん", image: "images/sato.webp", roles: ["深夜帯メンション可⭕", "FGO民", "雀魂民","グラブル民"
-    ], comment: "キャラへの愛と火力は誰にも負けません！設定やストーリー考察を語り合いたいな愛" },
+    { name: "さとつん", image: "images/sato.webp", roles: ["深夜帯メンション可⭕", "FGO民", "雀魂民","グラブル民"], comment: "" },
     { name: "壁の教祖", image: "images/kyouso.webp", roles: ["深夜帯メンション可⭕", "原神民", "スタレ民","雀魂民", "お絵描き民","DDFFの民", "SAO民", "ブルアカ民","ハリポタ民", "ドラクエ民", "エレナイ民", "朝活の民☀️","壁の教祖"], comment: "" },
     { name: "Melon", image: "images/melon.webp", roles: ["深夜帯メンション可⭕", "原神民", "第5人格民","ゼンゼロ民", "スプラ民", "スマブラ民"], comment: "" },
     { name: "もち", image: "images/moti.webp", roles: ["深夜帯メンション可⭕", "原神民","マイクラ民","第5人格民","スタレ民", "エンドフィールド民","ゼンゼロ民","グラブル民","鳴潮民","アークナイツ民", "REPO民","APEX民","学マス民","ウマ娘民","VARORANT民", "アズールレーン民", "夜活の民🌙"], comment: "" },
